@@ -1,0 +1,6 @@
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\bin\Debug\Code Jam.exe.config
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\bin\Debug\Code Jam.exe
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\bin\Debug\Code Jam.pdb
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\obj\Debug\Code Jam.csprojResolveAssemblyReference.cache
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\obj\Debug\Code Jam.exe
+c:\users\akin\documents\visual studio 2015\Projects\Code Jam\Code Jam\obj\Debug\Code Jam.pdb
